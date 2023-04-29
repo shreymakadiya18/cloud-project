@@ -153,7 +153,7 @@ def tech():
     scrolling=True,
     )
 def ml():
-  st.write("To view the complete code for the end-to-end project, visit our [GitHub](https://https://github.com/shreymakadiya18/cloud-project)")
+  st.write("To view the complete code for the end-to-end project, visit our [GitHub](https://github.com/shreymakadiya18/cloud-project)")
   components.iframe("https://www.kaggle.com/embed/sns5154/type-2-diabetes-diagnosis-val-85-7-test-72-7?kernelSessionId=98362179",height=1000,)
 
 
