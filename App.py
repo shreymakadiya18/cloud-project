@@ -95,7 +95,7 @@ def html():
     scrolling=True,
 )
 def pred():
-    st.title("TYPE-2 DIABETES PREDICTOR")
+    st.title("DIABETES PREDICTOR")
     st.subheader("For women above 21 years of age")
     
     Glucose =st.number_input("",max_value=250)
@@ -153,7 +153,7 @@ def tech():
     scrolling=True,
     )
 def ml():
-  st.write("To view the complete code for the end-to-end project, visit our [GitHub](https://github.com/snshahgit/healthcare-backend)")
+  st.write("To view the complete code for the end-to-end project, visit our [GitHub](https://https://github.com/shreymakadiya18/cloud-project)")
   components.iframe("https://www.kaggle.com/embed/sns5154/type-2-diabetes-diagnosis-val-85-7-test-72-7?kernelSessionId=98362179",height=1000,)
 
 
