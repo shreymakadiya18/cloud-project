@@ -14,7 +14,3 @@ Step 3: To run the app, `streamlit run App.py` in the terminal open in the worki
 
 
 ---
-
-## WORKING MODEL
-
-link: https://snshahgit-type2-diabetes-predictor-app-develop-6e8qzr.streamlitapp.com/
